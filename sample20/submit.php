@@ -12,3 +12,5 @@
   <?php endif; ?>
 </body>
 </html>
+
+<!-- _REQUESTについては受け取り方、_GETでは_REQUESTで問題ないが、postで送信した場合は_POSTで受け取る必要がある-->
